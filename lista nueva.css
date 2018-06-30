@@ -1,0 +1,42 @@
+	ul{text-align: center;}
+	#container{
+		margin: 8% 7% 0% 7%;
+		border: 5px solid #cc99ff;
+		background-color: #ccffff;
+		padding: 45px 10px 45px 10px;
+	}
+	h1{color: #6600cc; font-family: arial-black, arial;}
+	td{color: #000;}
+	th{color: #000;}
+	table{width: 700px;}
+	thead{text-align: left;}
+	body{background-image: url('https://data.whicdn.com/images/254984719/original.gif');}
+	p{color: #000; text-align: justify;}
+	.menu{color: #6633cc;}
+	#button{
+		padding: 0;
+	}
+	#button li{
+		display: inline;	
+	}
+	#button li a {
+		font-family: Arial;
+		font-size:20px;
+		text-decoration: none;
+		float:center;
+	 	padding: 10px;
+		background-color: #D881FF;
+		color: #fff;
+	}
+#button li a:hover {
+	background-color: #E74AF2;
+	margin-top:-2px;
+	padding-bottom:12px;
+	}
+#iframe-foot{
+	width: 88%;
+	height: 320px;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
